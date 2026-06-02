@@ -17,11 +17,11 @@ Aspiring SOC Analyst focused on incident investigation, log analysis and network
 - SSH
 
 ## Labs
+Investigations documented in the [SOC-Labs](https://github.com/Benjaminoyarzun/SOC-LABS) repository:
 
 - Phishing Analysis
 - Hammered (Linux Log Analysis & Privilege Escalation Investigation)
 - PsExec Lateral Movement Investigation
-Full investigation reports available in the [SOC-Labs](https://github.com/Benjaminoyarzun/SOC-LABS) repository.
   
 ## Current Focus
 
