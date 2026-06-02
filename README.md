@@ -21,9 +21,7 @@ Aspiring SOC Analyst focused on incident investigation, log analysis and network
 - Phishing Analysis
 - Hammered (Linux Log Analysis & Privilege Escalation Investigation)
 - PsExec Lateral Movement Investigation
-## Featured Project
-
-- [SOC-Labs](https://github.com/Benjaminoyarzun/SOC-LABS) – Incident investigations covering phishing, Linux compromise analysis and lateral movement detection.
+Full investigation reports available in the [SOC-Labs](https://github.com/Benjaminoyarzun/SOC-LABS) repository.
   
 ## Current Focus
 
