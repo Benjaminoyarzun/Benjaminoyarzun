@@ -1,6 +1,11 @@
 # Hi, I'm Benjamin Oyarzun
 
-Cybersecurity student focused on SOC operations, incident investigation and network analysis.
+Aspiring SOC Analyst focused on incident investigation, log analysis and network security.
+
+## Training
+
+- Operador de Ciberseguridad — Córdoba CREA Futuro
+- CyberDefenders SOC Analyst Path (In Progress)
 
 ## Skills
 
@@ -14,15 +19,14 @@ Cybersecurity student focused on SOC operations, incident investigation and netw
 ## Labs
 
 - Phishing Analysis
-- Hammered
-- PsExec Lateral Movement
+- Hammered (Linux Log Analysis & Privilege Escalation Investigation)
+- PsExec Lateral Movement Investigation
+## Featured Project
 
-## Training
-
-- Operador de Ciberseguridad - Córdoba CREA Futuro
-
+- [SOC-Labs](https://github.com/Benjaminoyarzun/SOC-LABS) – Incident investigations covering phishing, Linux compromise analysis and lateral movement detection.
+  
 ## Current Focus
 
-- SOC Analyst Path
+- SOC Analyst
 - Incident Response Fundamentals
 - Threat Detection
